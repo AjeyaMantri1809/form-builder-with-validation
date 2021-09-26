@@ -3,4 +3,7 @@ A web application built using Javascript, HTML5 and CSSm which can be used to cr
 
 Each form also has in-built client-side form validation to ensure data inputted by user matches the requirements for each field. The validation is conducted using standardized rules. To implement custom rules will require a basic understanding of HTML and Java Script. More information can be found at https://www.w3schools.com/html/html_forms.asp. 
 
+Currently Available: Standard App Registration Page
+To be added soon: Job Application Form, Custom Form Builder
+
 Thank you for visiting my page and feel free to leave me feedback, suggestions or other comments at ajeya.mantri@u.nus.edu. Cheers!
