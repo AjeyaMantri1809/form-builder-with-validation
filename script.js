@@ -1,3 +1,4 @@
+//Fields
 const form = document.getElementById('form');
 const first_name = document.getElementById('first_name');
 const last_name = document.getElementById('last_name');
@@ -74,4 +75,3 @@ function processFormData(e){
 }
 
 form.addEventListener('submit', processFormData);
-
